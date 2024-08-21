@@ -1,0 +1,7 @@
+The row is: A
+The seat is: 14
+The price is: £180
+
+Name: djf
+Surname: jfdh
+Email: ish@gmail.com

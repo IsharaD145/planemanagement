@@ -1,0 +1,7 @@
+The row is: D
+The seat is: 14
+The price is: £180
+
+Name: ishara
+Surname: dharmapriya
+Email: 20232273@iit.ac.lk
